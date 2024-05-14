@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Whack a Mole</string>
+    <string name="score">Score: %d</string>
+    <string name="mole_tag">mole</string>
+    <string name="gameName">"Whack a Mole "</string>
+    <string name="gameStart">Start</string>
+    <string name="highestScorebtn">Highest Score</string>
+    <string name="HighScoreText">Your Highest Score</string>
+    <string name="highScoreDescrip">Play More to Score More</string>
+    <string name="Play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop">stop</string>
+    <string name="Home">Main Menu</string>
+    <string name="gameOvertxt">Game Over</string>
+    <string name="PlayAgain">Try Again</string>
+
+
+</resources>
